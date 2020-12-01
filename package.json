@@ -13,10 +13,10 @@
 		"test:unit": "vue-cli-service test:unit"
 	},
 	"devDependencies": {
-		"@fullcalendar/core": "4.0.2",
-		"@fullcalendar/daygrid": "4.0.1",
-		"@fullcalendar/interaction": "4.0.2",
-		"@fullcalendar/timegrid": "4.0.1",
+		"@fullcalendar/core": "~4.4.0",
+		"@fullcalendar/daygrid": "4.4.2",
+		"@fullcalendar/interaction": "4.4.2",
+		"@fullcalendar/timegrid": "4.4.2",
 		"@vue/cli-plugin-babel": "~4.5.0",
 		"@vue/cli-plugin-eslint": "~4.5.0",
 		"@vue/cli-plugin-router": "~4.5.0",
