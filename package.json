@@ -1,9 +1,9 @@
 {
-	"name": "sigma-vue",
+	"name": "vue-backend",
 	"version": "3.0.0",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/primefaces/sigma-vue.git"
+		"url": "https://github.com/kenlee2003/vue-backend.git"
 	},
 	"license": "MIT",
 	"scripts": {
